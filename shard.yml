@@ -2,11 +2,11 @@ name: hafizio
 version: 0.1.0
 
 authors:
-  - Hafiz Khairudin <ibnukamy@gmail.com>
+  - Hafiz Khairudin <haffuza@gmail.com>
 
 targets:
   hafizio:
-    main: src/app.cr
+    main: src/hafizio.cr
 
 dependencies:
   kemal:
